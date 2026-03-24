@@ -4,9 +4,11 @@
 
 ## 👥 加入项目
 
-**邀请链接**：https://repocard.io/invite/github.com/Plvphl/tax-rag-system
+### 方式1：自动邀请系统（推荐）
+访问邀请页面填写信息即可自动加入：http://localhost:5000 （本地运行时）
 
-点击上方链接申请加入项目协作者！
+### 方式2：邀请链接
+**邀请链接**：https://repocard.io/invite/github.com/Plvphl/tax-rag-system
 
 ### 贡献指南
 1. Fork 本仓库
