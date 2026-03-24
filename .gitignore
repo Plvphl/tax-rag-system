@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+.venv/
+
+# 数据
+chroma_data/
+data/chunks/  # 你们实际的税务文档不传git
+
+# 环境变量
+.env
+
+# IDE
+.vscode/
+.idea/
